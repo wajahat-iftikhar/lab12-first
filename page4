@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price | WIS.27pro</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="nav">
+        <a class="brand" href="index.html">WIS<span>.</span>27pro</a>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="features.html">Features</a>
+            <a class="active" href="price.html">Price</a>
+            <a href="specifications.html">Specifications</a>
+            <a href="order.html">Order</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+
+    <div class="section-head">
+        <h1>Our Pricing</h1>
+        <p>Choose your WIS.27pro Smart Watch.</p>
+    </div>
+
+    <div class="price-wrap">
+
+        <div class="price-card featured">
+
+            <div class="eyebrow">Local Price</div>
+
+            <div class="price">PKR 10,000</div>
+
+            <p>WIS.27pro Smart Watch</p>
+
+            <ul>
+                <li>All listed watch features</li>
+                <li>1.7-inch screen</li>
+                <li>Modern wearable design</li>
+                <li>AI Voice Assistance</li>
+            </ul>
+
+            <a class="btn light" href="order.html">
+                Order Now
+            </a>
+
+        </div>
+
+        <div class="price-card">
+
+            <div class="eyebrow">International Reference</div>
+
+            <div class="price">$35</div>
+
+            <p>WIS.27pro Smart Watch</p>
+
+            <ul>
+                <li>Smartwatch WIS.27pro</li>
+                <li>HD Display</li>
+                <li>Voice Assistance</li>
+                <li>Modern Design</li>
+            </ul>
+
+            <a class="btn" href="order.html">
+                Buy Now
+            </a>
+
+        </div>
+
+    </div>
+
+</main>
+
+<footer>
+    © 2026 WIS.27pro Smart Watch. All Rights Reserved.
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
