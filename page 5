@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Specifications | WIS.27pro</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="nav">
+        <a class="brand" href="index.html">WIS<span>.</span>27pro</a>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="features.html">Features</a>
+            <a href="price.html">Price</a>
+            <a class="active" href="specifications.html">Specifications</a>
+            <a href="order.html">Order</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+
+    <div class="section-head">
+        <h1>Technical Specifications</h1>
+        <p>Product details of WIS.27pro Smart Watch.</p>
+    </div>
+
+    <table class="specs">
+
+        <tbody>
+            <tr>
+                <th>Product Name</th>
+                <td>Smart Watch WIS.27pro</td>
+            </tr>
+
+            <tr>
+                <th>Display Size</th>
+                <td>1.7 Inches</td>
+            </tr>
+
+            <tr>
+                <th>Voice Assistance</th>
+                <td>AI Voice Assistance</td>
+            </tr>
+
+            <tr>
+                <th>Connectivity</th>
+                <td>Satellite Connection for Emergencies</td>
+            </tr>
+
+            <tr>
+                <th>Communication</th>
+                <td>Calls, Messages, Video and Voice Calls</td>
+            </tr>
+
+            <tr>
+                <th>Display Type</th>
+                <td>HD Display</td>
+            </tr>
+
+            <tr>
+                <th>Price in Pakistan</th>
+                <td>PKR 10,000</td>
+            </tr>
+
+            <tr>
+                <th>International Reference Price</th>
+                <td>$35</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <p class="muted" style="margin-top:15px;">
+        Note: Other technical details such as battery capacity,
+        processor and water-resistance rating were not provided
+        in the original product information.
+    </p>
+
+    <div style="margin-top:25px;">
+        <a class="btn" href="order.html">Order Your Watch</a>
+    </div>
+
+</main>
+
+<footer>
+    © 2026 WIS.27pro Smart Watch. All Rights Reserved.
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
