@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | WIS.27pro</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="nav">
+        <a class="brand" href="index.html">WIS<span>.</span>27pro</a>
+
+        <nav>
+            <a class="active" href="index.html">Home</a>
+            <a href="features.html">Features</a>
+            <a href="price.html">Price</a>
+            <a href="specifications.html">Specifications</a>
+            <a href="order.html">Order</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <section class="hero">
+        <div>
+            <div class="eyebrow">Technology on your wrist</div>
+
+            <h1>Meet Your New Everyday Companion</h1>
+
+            <p>
+                Discover the WIS.27pro Smart Watch.
+                Stay connected, track your day and enjoy
+                useful technology in a stylish design.
+            </p>
+
+            <a class="btn light" href="order.html">
+                Order Your Watch
+            </a>
+        </div>
+
+        <div class="watch-art">
+            <div class="watch">
+                <div class="screen">
+                    <div class="date">MON, 10 NOV</div>
+                    <div class="time">10:28</div>
+                    <div class="orb"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="section-head">
+            <h2>Smart Living Starts Here</h2>
+            <p>Useful features for your everyday life.</p>
+        </div>
+
+        <div class="cards">
+
+            <article class="card">
+                <div class="icon">⌚</div>
+                <h3>Modern Design</h3>
+                <p>
+                    A stylish watch designed to
+                    complement your everyday look.
+                </p>
+            </article>
+
+            <article class="card">
+                <div class="icon">♡</div>
+                <h3>Everyday Tracking</h3>
+                <p>
+                    Keep useful health and activity
+                    information close at hand.
+                </p>
+            </article>
+
+            <article class="card">
+                <div class="icon">◉</div>
+                <h3>Stay Connected</h3>
+                <p>
+                    Access supported calls, messages
+                    and notifications from your wrist.
+                </p>
+            </article>
+
+        </div>
+    </section>
+</main>
+
+<footer>
+    © 2026 WIS.27pro Smart Watch. All Rights Reserved.
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
