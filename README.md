@@ -1,3 +1,4 @@
-# lab12-first
-Product launching webpage
+# Product launching web page
+smart watch 
+
 
