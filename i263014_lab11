@@ -1,0 +1,55 @@
+i263014_SE_A_LAB11.html
+100%
+<html>
+ <head>
+  <title><u> <b> SMART WATCH WIS.27pro </b> </u> </title>
+ <style>
+ title{
+  text-allign: centre;
+ }
+ th{
+  text-allign: center;
+ }
+ tr{
+  text-allign: left;
+ }
+ td{
+  text-allign: center;
+ }
+</style>
+
+ </head>
+ <body>
+<h1>INTRODUCTION :</h1>
+<P>
+ Meet the future of wearable technology.<br>
+ Designed to seamlessly bridge the gap between your digital<br>
+ world and your physical life, our new Smart Watch puts <br>
+ everything you need right on your wrist. Track your vital<br>
+ health metrics, stream your media, and stay instantly <br>
+ connected with advanced notification systems—all powered <br>
+ by an ultra-responsive display and exceptional battery life.<br>
+ It is more than a watch; it is your ultimate daily companion.<br>
+</P>
+
+<table>
+ <th>Smart Watch WIS.27pro</th>
+ <tr>Features</tr>
+ <td>AI voice assistance<br>Satellite Connection for Emergencies<br>Calls, messages, video and voice calls HD<br>1.7 inches screen<br></tc>
+ <tr>Price</tr>
+ <td>10000 pkr<br> 35$<br></td>
+</table>
+
+
+<img src = "watch.jpg"width=300 height=400 alt="Watch image"><br>
+<br>
+<button>Buy Now</button><br>
+<br>
+< herf="https://www.watch.com">Watch.com</a></herf>"
+
+<h5>Contact : 0300-xxxxxxx</h5>
+<h5>Adress : H11/4, islamabad</h5>
+
+ </body>
+</html>
+Displaying i263014_SE_A_LAB11.html.
