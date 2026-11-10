@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order | WIS.27pro</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="nav">
+        <a class="brand" href="index.html">WIS<span>.</span>27pro</a>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="features.html">Features</a>
+            <a href="price.html">Price</a>
+            <a href="specifications.html">Specifications</a>
+            <a class="active" href="order.html">Order</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+
+    <div class="section-head">
+        <h1>Place Your Order</h1>
+        <p>Fill in the form to prepare your order request.</p>
+    </div>
+
+    <div class="order-layout">
+
+        <aside class="order-note">
+            <div class="eyebrow">WIS.27pro</div>
+
+            <h2>Your Smart Companion Is Waiting!</h2>
+
+            <p>
+                Listed Price:
+                <strong>PKR 10,000</strong>
+            </p>
+
+            <p>
+                Complete the form to prepare your
+                smartwatch order request.
+            </p>
+        </aside>
+
+        <form id="orderForm">
+
+            <label for="customer">Full Name</label>
+            <input
+                type="text"
+                id="customer"
+                name="customer"
+                placeholder="Enter your full name"
+                required
+            >
+
+            <label for="phone">Phone Number</label>
+            <input
+                type="tel"
+                id="phone"
+                name="phone"
+                placeholder="03XX-XXXXXXX"
+                required
+            >
+
+            <label for="quantity">Select Quantity</label>
+            <select id="quantity" name="quantity">
+                <option value="1">1 Watch</option>
+                <option value="2">2 Watches</option>
+                <option value="3">3 Watches</option>
+                <option value="4">4 Watches</option>
+                <option value="5">5 Watches</option>
+            </select>
+
+            <label for="address">Delivery Address</label>
+            <textarea
+                id="address"
+                name="address"
+                rows="4"
+                placeholder="Enter your complete address"
+                required
+            ></textarea>
+
+            <button class="submit" type="submit">
+                Submit Order Request
+            </button>
+
+            <div
+                class="notice"
+                id="confirmation"
+                role="status">
+            </div>
+
+        </form>
+
+    </div>
+
+</main>
+
+<footer>
+    © 2026 WIS.27pro Smart Watch. All Rights Reserved.
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
