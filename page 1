@@ -1,0 +1,15 @@
+WIS27pro-Website/
+│
+├── index.html
+├── features.html
+├── price.html
+├── specifications.html
+├── order.html
+├── contact.html
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    │
+    └── js/
+        └── script.js
